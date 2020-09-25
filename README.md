@@ -1,2 +1,2 @@
-# synchronousBallMovement
-Ball moving synchronously
+# C40 
+https://priyalmusal.github.io/car-racing-c40/
