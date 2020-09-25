@@ -1,1 +1,2 @@
-# car-racing-c40
+# synchronousBallMovement
+Ball moving synchronously
